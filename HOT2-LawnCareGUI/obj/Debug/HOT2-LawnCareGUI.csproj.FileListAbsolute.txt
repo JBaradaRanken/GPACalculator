@@ -1,0 +1,11 @@
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\obj\Debug\HOT2_LawnCareGUI.frmLawnCareCalc.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\obj\Debug\HOT2_LawnCareGUI.Properties.Resources.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.csproj.GenerateResource.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\bin\Debug\HOT2-LawnCareGUI.exe.config
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\bin\Debug\HOT2-LawnCareGUI.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\bin\Debug\HOT2-LawnCareGUI.pdb
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.pdb

@@ -1,0 +1,11 @@
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\obj\Debug\HOT-2JohnBaradaFinal.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\obj\Debug\HOT-2JohnBaradaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\obj\Debug\HOT_2JohnBaradaFinal.frmTShirtDiscount.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\obj\Debug\HOT_2JohnBaradaFinal.Properties.Resources.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\obj\Debug\HOT-2JohnBaradaFinal.csproj.GenerateResource.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\obj\Debug\HOT-2JohnBaradaFinal.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\bin\Debug\HOT-2JohnBaradaFinal.exe.config
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\bin\Debug\HOT-2JohnBaradaFinal.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\bin\Debug\HOT-2JohnBaradaFinal.pdb
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\obj\Debug\HOT-2JohnBaradaFinal.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT-2JohnBaradaFinal\obj\Debug\HOT-2JohnBaradaFinal.pdb

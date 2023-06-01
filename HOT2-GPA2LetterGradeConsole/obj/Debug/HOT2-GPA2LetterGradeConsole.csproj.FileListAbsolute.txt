@@ -1,0 +1,8 @@
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeConsole\bin\Debug\HOT2-GPA2LetterGradeConsole.exe.config
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeConsole\bin\Debug\HOT2-GPA2LetterGradeConsole.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeConsole\bin\Debug\HOT2-GPA2LetterGradeConsole.pdb
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.pdb

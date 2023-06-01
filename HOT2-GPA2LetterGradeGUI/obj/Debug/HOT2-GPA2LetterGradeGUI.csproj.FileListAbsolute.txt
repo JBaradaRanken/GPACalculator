@@ -1,0 +1,11 @@
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2_GPA2LetterGradeGUI.frmLetterGrade.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2_GPA2LetterGradeGUI.Properties.Resources.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.csproj.GenerateResource.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\bin\Debug\HOT2-GPA2LetterGradeGUI.exe.config
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\bin\Debug\HOT2-GPA2LetterGradeGUI.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\bin\Debug\HOT2-GPA2LetterGradeGUI.pdb
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\HOT-2JohnBaradaFinal\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.pdb
